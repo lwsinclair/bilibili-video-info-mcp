@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lesir831-bilibili-video-info-mcp-badge.png)](https://mseep.ai/app/lesir831-bilibili-video-info-mcp)
+
 # MCP Server for Bilibili Video Info
 
 [![smithery badge](https://smithery.ai/badge/@lesir831/bilibili-video-info-mcp)](https://smithery.ai/server/@lesir831/bilibili-video-info-mcp)
